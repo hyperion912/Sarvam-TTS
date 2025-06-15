@@ -67,7 +67,7 @@ AWS_REGION=your_aws_region # e.g., us-west-2
 ## ▶️ Run the API
 
 ```bash
-uvicorn main:main --host 0.0.0.0 --port 8000
+uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 
 ---
