@@ -38,8 +38,8 @@ This API provides a **Text-to-Speech (TTS)** solution for Indian languages, allo
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/indian-tts-api.git
-cd indian-tts-api
+git clone https://github.com/hyperion912/Sarvam-TTS.git
+cd Sarvam-TTS
 pip install -r requirements.txt
 ```
 
@@ -147,11 +147,3 @@ with open("output.wav", "wb") as f:
 - **Uvicorn** – ASGI server
 
 ---
-
-
-
-## ❤️ Acknowledgments
-
-- [Sarvam AI](https://sarvam.ai)
-- [Google Gemini](https://ai.google.dev)
-- [FastAPI](https://fastapi.tiangolo.com)
