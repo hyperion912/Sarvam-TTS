@@ -4,3 +4,5 @@ sarvamai
 pydub
 google-generativeai
 dotenv
+boto3
+requests
