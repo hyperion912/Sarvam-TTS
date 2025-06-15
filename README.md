@@ -31,6 +31,7 @@ This API provides a **Text-to-Speech (TTS)** solution for Indian languages, allo
 - Python 3.9+
 - Sarvam AI API Key
 - Gemini API Key (for fallback)
+- FFmpeg installed (for audio processing)
 
 ---
 
