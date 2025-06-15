@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sarvamai
+pydub
+google-generativeai
